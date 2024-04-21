@@ -23,4 +23,5 @@ class RootAPI < Grape::API
       contact_url: 'https://localhost:3000'
     },
     array_use_braces: true
+
 end
