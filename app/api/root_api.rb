@@ -1,6 +1,6 @@
 require 'grape-swagger'
 
-class RootAPI < Grape::Api
+class RootAPI < Grape::API
   format :json
   prefix :api
 
